@@ -8,9 +8,11 @@
 1. 如果想屏蔽浏览器默认的某个快捷键，Termsafe也提供了doNothing的选项
 1. 这是一段佛学金句：若菩萨有我相、人相、从生相、寿者相，即非菩萨
 
-
 ## 安装
 1. Termsafe目前已发布至从Chrome Webstore，[点击跳转至Chrome Webstore安装](https://chrome.google.com/webstore/detail/termsafe/)
+
+## 版权
+1. 注意Termsafe的版权是专有版权，详情请查看本项目中的license文件
 
 ## 使用
 1. 在浏览器中打开快捷键设置：chrome://extensions/shortcuts

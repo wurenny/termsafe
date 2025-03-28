@@ -11,6 +11,9 @@
 ## Installation
 1. Termsafe has been released to Chrome Webstore, [click to jump to Chrome Webstore to install](https://chrome.google.com/webstore/detail/termsafe/)
 
+## copyright
+1. Note that the copyright of Termsafe is proprietary, see the license file in this project for details
+
 ## How to use
 1. Open the shortcut key settings in the browser: chrome://extensions/shortcuts
 1. Find Termsafe and set the corresponding shortcut keys according to your needs
