@@ -1,0 +1,37 @@
+{
+  "____notice____": {
+"message": "------------------------------------------------------------------------------------",
+"message01": " *                                                                                ",
+"message02": "* This Source Code is subject to the Proprietary Software License.                ",
+"message03": "* You shall use it only in accordance with the terms of the license agreement.    ",
+"message04": "* You can contribute the source code by submitting pull request on Github:        ",
+"message05": "* https://github.com/wurenny/termsafe                                             ",
+"message06": "* But unauthorized copying, modification, distribution, or publication of this    ",
+"message07": "* software, in whole or in part, is strictly prohibited.                          ",
+"message08": " *                                                                                ",
+"message09": " * Copyright (c) 2024-2025, wurenny@gmail.com, All rights reserved                ",
+"message50": " *                                                                                ",
+"message51": " * IDENTIFICATION                                                                 ",
+"message52": " *     _locales/en/messages.json                                                  ",
+"message53": " *                                                                                ",
+"message54": " * This file is part of Termsafe project                                          ",
+"message55": " * en/messages is the the English launguage file                                  ",
+"message56": " *                                                                                ",
+"message57": " *--------------------------------------------------------------------------------"
+}
+
+,"app_title": {"message": "Termsafe"}
+,"app_description": {"message": "Web terminal security keypad assistant(Ctrl+W=Work)"}
+
+,"cmd_delete_input_backword": {"message": "Deleting a word forward(recommend ctrl+w)"}
+,"cmd_close_selected_tabs": {"message": "Close the selected or actived tab"}
+,"cmd_do_nothing": {"message": "Do nothing by blocking key presses"}
+,"msg_toast_cross_origin": {"message": "A new web terminal page is opening when a cross origin found"}
+
+,"oth_readme":{"message":"About me"}
+,"oth_readme1":{"message":"The main purpose of Termsafe's design is to solve the problem that the Ctrl-W shortcut key cannot be used in the web terminal."}
+,"oth_readme2":{"message":"The Intention: currently, the vast majority of samilar extensions merely solve the issue of preventing accidental window closure by blocking the Ctrl-W key. Typically, these extensions only disable the shortcut key, which is far from sufficient for developers and operations staff. If the Ctrl-W shortcut could function correctly in web terminals, it would be a great boon for these professionals!"}
+,"oth_readme3":{"message":"Termsafe is designed to be scalable and currently supports some typical webshell terminals, including [cloudshell](https://github.com/cloudtty/cloudtty) and webshell-based products such as [jumpserver](https://jumpserver.org). If you have any new adaptation requirements, we welcome you to submit issues on [Github](https://github.com/wurenny/termsafe). Of course, submitting pull requests is even more appreciated."}
+,"oth_readme4":{"message":"In addition, Termsafe can also function properly on regular input boxes, although this feature seems to have little practical use and merely caters to the specific preferences of some Vim users."}
+,"oth_readme6":{"message":"This is a Buddhist sentence: If a Bodhisattva has the notions of self, others, living beings, and longevity, he is not a Bodhisattva."}
+}

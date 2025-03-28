@@ -1,0 +1,37 @@
+{
+  "____notice____": {
+"message": "------------------------------------------------------------------------------------",
+"message01": " *                                                                                ",
+"message02": "* This Source Code is subject to the Proprietary Software License.                ",
+"message03": "* You shall use it only in accordance with the terms of the license agreement.    ",
+"message04": "* You can contribute the source code by submitting pull request on Github:        ",
+"message05": "* https://github.com/wurenny/termsafe                                             ",
+"message06": "* But unauthorized copying, modification, distribution, or publication of this    ",
+"message07": "* software, in whole or in part, is strictly prohibited.                          ",
+"message08": " *                                                                                ",
+"message09": " * Copyright (c) 2024-2025, wurenny@gmail.com, All rights reserved                ",
+"message50": " *                                                                                ",
+"message51": " * IDENTIFICATION                                                                 ",
+"message52": " *     _locales/zh_CN/messages.json                                               ",
+"message53": " *                                                                                ",
+"message54": " * This file is part of Termsafe project                                          ",
+"message55": " * zh_CN/messages is the the Chinese launguage file                               ",
+"message56": " *                                                                                ",
+"message57": " *--------------------------------------------------------------------------------"
+}
+
+,"app_title": {"message": "Termsafe"}
+,"app_description": {"message": "Web终端安全按键助手(Ctrl+W=Work)"}
+
+,"cmd_delete_input_backword": {"message": "向前删除一个单词(建议ctrl+w)"}
+,"cmd_close_selected_tabs": {"message": "关闭当前或已选择的标签页"}
+,"cmd_do_nothing": {"message": "阻止默认行为不做任何事情"}
+,"msg_toast_cross_origin": {"message": "检测到终端存在跨域，将打开新的web终端"}
+
+,"oth_readme": {"message":"关于我"}
+,"oth_readme1": {"message":"Termsafe的设计目的：主要是解决web终端下ctrl-w快捷键无法使用的问题。"}
+,"oth_readme2": {"message":"Termsafe的设计初衷：当前绝大多数类似的扩展只是解决了屏蔽ctrl-w按键避免窗口误关闭的问题，通常这些扩展仅仅只是屏蔽了快捷键，但这对于开发运维工作人员是远远不够的，如果可以让ctrl-w快捷键在Web终端上正确工作，这将是这些从业人员的一大福音！"}
+,"oth_readme3": {"message":"Termsafe被设计成可扩展的，当前支持一些典型的webshell终端，包括[cloudshell](https://github.com/cloudtty/cloudtty)及基于webshell的产品，如[jumpserver](https://jumpserver.org)，如果大家有新的适配需求，欢迎大家在[Github](https://github.com/wurenny/termsafe)提交issue，当然提效PR是更受欢迎的。"}
+,"oth_readme4": {"message": "此外，Termsafe在普通输入框上也能正常工作，虽然这个功能似乎没有多大用，只是满足一些Vim用户的特殊喜好。"}
+,"oth_readme6":{"message":"这是一段佛学金句：若菩萨有我相、人相、从生相、寿者相，即非菩萨。"}
+}
