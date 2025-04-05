@@ -9,7 +9,7 @@
 1. This is a Buddhist sentence: If a Bodhisattva has the notions of self, others, living beings, and longevity, he is not a Bodhisattva
 
 ## Installation
-1. Termsafe has been released to Chrome Webstore, [click to jump to Chrome Webstore to install](https://chrome.google.com/webstore/detail/termsafe/)
+1. Termsafe has been released to Chrome Webstore, [click to jump to Chrome Webstore to install](https://chromewebstore.google.com/detail/termsafe/lfpighaafadfeedglcggekhadfoogfih)
 
 ## copyright
 1. Note that the copyright of Termsafe is proprietary, see the license file in this project for details

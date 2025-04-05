@@ -9,7 +9,7 @@
 1. 这是一段佛学金句：若菩萨有我相、人相、从生相、寿者相，即非菩萨
 
 ## 安装
-1. Termsafe目前已发布至从Chrome Webstore，[点击跳转至Chrome Webstore安装](https://chrome.google.com/webstore/detail/termsafe/)
+1. Termsafe目前已发布至从Chrome Webstore，[点击跳转至Chrome Webstore安装](https://chromewebstore.google.com/detail/termsafe/lfpighaafadfeedglcggekhadfoogfih)
 
 ## 版权
 1. 注意Termsafe的版权是专有版权，详情请查看本项目中的license文件
