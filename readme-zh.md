@@ -2,7 +2,7 @@
 ## 介绍
 1. Termsafe的设计目的：主要是解决web终端下ctrl-w快捷键无法使用的问题
 1. Termsafe的设计初衷：当前绝大多数类似的扩展只是解决了屏蔽ctrl-w按键避免窗口误关闭的问题，通常这些扩展仅仅只是屏蔽了快捷键，但这对于开发运维工作人员是远远不够的，如果可以让ctrl-w快捷键在Web终端上正确工作，这将是这些从业人员的一大福音
-1. Termsafe被设计成可扩展的，当前支持一些典型的webshell终端，包括[cloudshell](https://github.com/cloudtty/cloudtty)及基于webshell的产品，如[jumpserver](https://jumpserver.org)，如果大家有新的适配需求，欢迎大家在[Github](https://github.com/wurenny/termsafe)提交issue，当然提效PR是更受欢迎的
+1. Termsafe被设计成可扩展的，当前支持一些典型的webshell终端，包括[cloudshell](https://github.com/cloudtty/cloudtty)及基于webshell的产品，如[jumpserver](https://jumpserver.org)，如果大家有新的适配需求，欢迎大家在[Github](https://github.com/wurenny/termsafe)提交issue，当然提交PR是更受欢迎的
 1. 此外，Termsafe在普通输入框上也能正常工作，虽然这个功能似乎没有多大用，只是满足一些Vim用户的特殊喜好
 1. 对于ctrl+w默认关闭浏览器当前窗口的快捷功能，Termsafe也提供了替换按键设置选项
 1. 如果想屏蔽浏览器默认的某个快捷键，Termsafe也提供了doNothing的选项
